@@ -15,7 +15,7 @@ int main(){
     }
     
     if (semuaSama){
-        cout << " Semua Elemen sama. "<< endl;
+        cout << " Semua Elemen yang sama. "<< endl;
     } else{
         cout << " Ada elemen yang beda. "<< endl;
     }
